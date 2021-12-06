@@ -73,6 +73,6 @@ def part_two():
     oxygen = get_oxygen_rating(input)
     co2 = get_co2_rating(input)
     print(oxygen * co2)
-
+    
 part_one()
 part_two()
